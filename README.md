@@ -1,12 +1,8 @@
-# Requirement of the project
-“An internet user should be able to open WebGL Editor (threejs) and using a built in menu/submenu, be able to run a CADQuery through  a CADQUERY engine running in a pre-packaged Docker instance in the backend. The user should be able to interactively run and parametrise such CQs. 
-
 ## Setuping up project
-
-1. go to the root dir of the project
-2. enter
-   $> npm start
-3. open your browser at http://localhost:8080/
+1. git clone
+2. npm install
+3. npm start
+4. open your browser at http://localhost:8080/
 
 ##Project structure
 project is running on a node server which is serving satic site from public dir,
