@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+h1 {
+	height: 12px;
+}
+
+.filemanager {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 20vh;
+	background: rgb(26, 26, 26);
+	border-bottom: 10px solid #000;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.file {
+	cursor: pointer;
+	margin-left: 10px;
+}

@@ -1,0 +1,9 @@
+How can i move a obj (obj refering to any model in a scene) in 
+#1
+can use the property scene.children[1].position
+to change the x,y,z values
+example:
+scene.children[1].position.x = 1
+
+#2
+rerender the whole obj 
