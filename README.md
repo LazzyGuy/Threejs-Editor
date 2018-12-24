@@ -1,5 +1,5 @@
 
-## Setuping up project
+## Setting up project
 * Clone the repo:
   ```
   git clone https://github.com/LazzyGuy/Threejs-Editor.git
